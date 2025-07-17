@@ -1,4 +1,4 @@
-# 💬 CodeGPT Mentor
+# 💬 CodeWhispererAI
 
 > Your lightweight AI coding companion powered by OpenRouter + GPT — crafted for devs who just want straight answers, fast.
 
