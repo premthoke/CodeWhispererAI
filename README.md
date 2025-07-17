@@ -12,7 +12,7 @@
 
 ## 🧠 About The Project
 
-**CodeGPT Mentor** is a sleek and simple AI assistant made using GPT via OpenRouter API.  
+**CodeWhispererAI** is a sleek and simple AI assistant made using GPT via OpenRouter API.  
 It’s built for learners, students, and developers who need real-time help with code, logic, or programming concepts — without distractions or bloated UI.
 
 This is not a full-blown IDE assistant, but rather a clean space to ask, learn, and move on quickly.
