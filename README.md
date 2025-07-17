@@ -6,7 +6,7 @@
 
 ## 🌐 Live Project
 
-🚀 Try it here: [https://codegptmentor.netlify.app](https://codegptmentor.netlify.app)
+🚀 Try it here: https://codewhispererai.netlify.app/
 
 ---
 
