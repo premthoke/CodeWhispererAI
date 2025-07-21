@@ -30,6 +30,13 @@ This is not a full-blown IDE assistant, but rather a clean space to ask, learn, 
 
 ---
 
+## 📸 Screenshots
+<img width="1919" height="996" alt="Screenshot 2025-07-22 003138" src="https://github.com/user-attachments/assets/c4378d55-363d-42ba-ab85-e12137390c2c" />
+<img width="1915" height="974" alt="Screenshot 2025-07-22 002906" src="https://github.com/user-attachments/assets/2d846936-156d-44e4-98a0-aa870e3351b3" />
+<img width="1907" height="999" alt="Screenshot 2025-07-22 003358" src="https://github.com/user-attachments/assets/b4816863-fa8d-4fd3-8aaa-eb524bee41f2" />
+
+---
+
 ## 🛠️ Tech Stack
 
 | Frontend  | Backend    | AI/Infra      |
