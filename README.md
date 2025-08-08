@@ -6,7 +6,7 @@
 
 ## 🌐 Live Project
 
-🚀 Try it here: https://codewhispererai.netlify.app/
+> 🚀 Try it here: https://codewhispererai.netlify.app/
 
 ---
 
@@ -61,3 +61,4 @@ If you like it, drop a ⭐ on the repo!
 Wanna improve it? Pull requests are welcome 🤝
 
 ---
+
